@@ -2,7 +2,7 @@
 
 Explore countries of the world and check the current weather in their capitals.
 
-**Live demo: [radoslawbilke.github.io/where-in-the-world](https://radoslawbilke.github.io/where-in-the-world/)**
+**Live demo: [LINK](https://radoslawbilke.github.io/where-in-the-world/)**
 
 Based on the [REST Countries API with color theme switcher](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca) challenge from Frontend Mentor, extended with a Weather App.
 
